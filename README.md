@@ -2,7 +2,7 @@
 
 | *Kanithi Harshitha(LEAD)* 
 | *Madana Vishali*
- *Rella Bhavani Sowmya*                          |
+| *Rella Bhavani Sowmya*                          |
 ---
 # 🩺 HealthAI: Intelligent Healthcare Assistant
 *Project by:* Kanithi Harshitha, Madana Vishali, Rella Bhavani Sowmya
